@@ -2,7 +2,7 @@
 - 👀 Estou Interessado em Desenvolvimento de Sistemas ...
 - 🌱 Atualmente estou aprendedendo Java e AI 900 na plataforma Azure
 - 💞️ Procuro colaborar com a comunidade compartilhando meus códigos ...
-- 📫 Contato - contato@genesistore.store
+- 📫 Contato - contato@genesisbr.store
 
 <!---
 AndersonRodriguesDev/AndersonRodriguesDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
