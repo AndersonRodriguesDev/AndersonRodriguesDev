@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @AndersonRodriguesDev
 - 👀 Estou Interessado em Desenvolvimento de Sistemas ...
-- 🌱 Atualmente estou aprendedendo Java e AI 900 na plataforma Azure
+- 🌱 Atualmente estou me aprofundando em Java e  aprendendo AI 900 pela plataforma Azure Microsoft
 - 💞️ Procuro colaborar com a comunidade compartilhando meus códigos ...
 - 📫 Contato - contato@genesisbr.store
 
